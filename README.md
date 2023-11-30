@@ -22,7 +22,7 @@ I have the contents of this directory split into a few subdirectories:
 ### Assistance
 Assistance contains NIH-generated forms, guides, and information that I thought would be relevant to my application. Some of this may be outdated and I would check the NIH website for the most up-to-date versions of these things, but I thought including them to show what I was looking at while I was working on this could be helpful. I have an image of the `F31 guidelines` for document length, which are almost identical to this application, just for quick reference. I also have the `Funding Announcement` and a `list of tips` for building an application. There are three dense guides on completing `career`, `fellowship`, and `general` forms that are less helpful and I can't quite remember whether I actually used them at all.
 
-### Just In Time Docs  
+### Just_In_Time_Docs  
 Once the application was accepted, I recevied an email from Pamela L Mayer at the NIH on September 7th requesting information regarding: 1) Whether I would accept the award, 2) what NRSA funding my sponsors and I have received, 3) who my sponsors are, 4) my home address, phone number, and citizenship status, 5) IRB information, and 6) responses to each of the critiques that my application received. I was not informed of a deadline, but it seems like, informally, I only had a week to complete it, as I started getting emails asking for it to be submitted ASAP 2 business days after I received the first email. If you get to this stage, keep in mind that they want this quickly. Information related to this request is contained within this directory.
 
 ### Products
