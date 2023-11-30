@@ -1,6 +1,10 @@
 # NIH DSPAN (F99/K00) Application Materials
 **NOTE:** Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible and allowing me to maintain version control pretty easily. 
 
+Any private or sensitive information contained within these documents (user IDs, addresses, signatures, etc.) has been removed for security concerns. If you see some section in which it looks like I forgot to include one of those things, it's probably because I removed it so use your best judgement. 
+
+Lastly, the conventions and templates are changing not infrequently, so please consult with and trust official NIH resources (which this is not) when working on any of these documents moreso than anything I say. The purpose of this repository is to give people a starting point and reduce uncertainty about some of the unofficial or subjective aspects of the process (e.g., "How long do I have to wait to hear back?", "Will I have enough time to turn around a  resubmission if I don't get it the first time?", "How can I frame this tangetially related experience?", etc.)  
+
 ## Overview:
 
 This directory contains almost all, if not all, of the documents related to my application to the [NIH DSPAN award](https://neuroscienceblueprint.nih.gov/training/nih-blueprint-and-brain-initiative-d-span-award-f99k00), which provides up to two years of predoctoral funding and four years of postdoctoral funding to eligible applicants (i.e., people who meet the NIH definition of being from a diverse background; see the [funding announcement](https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-21-012.html)). I specifically met criteria 3 through 7 under condition C and so my application carries with it that specific perspective, which might be something to keep in mind if your elgibility is granted by meeting different criteria. 
