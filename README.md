@@ -3,7 +3,11 @@
 
 Any private or sensitive information contained within these documents (user IDs, addresses, signatures, etc.) has been removed for security concerns. If you see some section in which it looks like I forgot to include one of those things, it's probably because I removed it so use your best judgement. 
 
+If this repository helped or helps you to succesfully receive an NIH F99/K00 grant and you'd be willing to share your materials to help others, please let me know! I'd be happy to incorporate them to provide other examples of routes to a successful application.
+
 Lastly, the conventions and templates are changing not infrequently, so please consult with and trust official NIH resources (which this is not) when working on any of these documents moreso than anything I say. The purpose of this repository is to give people a starting point and reduce uncertainty about some of the unofficial or subjective aspects of the process (e.g., "How long do I have to wait to hear back?", "Will I have enough time to turn around a  resubmission if I don't get it the first time?", "How can I frame this tangetially related experience?", etc.)  
+
+### Last Updated: 2024 - 07 - 16
 
 ## Overview:
 
@@ -14,6 +18,8 @@ I applied twice: December 2022 and April 2023. My first submission was not discu
 ## Timelines
 
 The first submission was submitted December 15th, 2022. The study section met to discuss this submission on Februrary 13th, 2023 and I received my summary statement, which includes detailed feedback on every section, from that section on March 07th, 2023. Because it was not discussed, there was no advisory council meeting. I had between March 07th and April 08th to incorporate that study section feedback into my resubmission. I made some substantial changes to my advisory team, recommender team, and study design in that time. My next application was submitted April 15th, 2023. The study section for that submission met on June 05th. I received my impact score June 10th and my summary statement on July 09th. I then recevied an email from the Program Officer, Michelle, Jones-London, on July 11th asking me to respond to the feedback in a three page letter by July 21st. The advisory council met sometime in August (which was not disclosed to me) and I learned via email on August 18th that the project was funded. During all of that time I did have two or three meetings with Michelle and Lauren Ulrich to discuss my application and get some more insight into parts of the application or feedback that confused me. 
+
+**NEW**: On May 20th, 2024, I receieved a notification from [era-notify@mail.nih.gov](mailto:era-notify@mail.nih.gov) that my first *Research Performance Progress Report* (RPPR) would be due July 20th, 2024. I was somewhat confused because Temple had deferred my funding start date to January 2024, so it had not even been a full year yet. However, these are determined by budget periods and are due two months from the start of a new one, which is September 20th, 2024. I received a reminder of this on June 20th, 2024 as well. Our internal grants specialist reached out to me on July 2nd, 2024 to also inform me and let me know that this must be reviewed internally before being submitted and the deadline for that was actually July 16th. I was able to assemble all of the responses and materials in a little under two days to meet that deadline.  
 
 ## Materials
 
@@ -27,6 +33,16 @@ Once the application was accepted, I recevied an email from Pamela L Mayer at th
 
 ### Products
 This is entirely supplemental. It contains a few  powerpoints that I presented on the contents of the application. It is likely worthless to you, but if you find yourself wondering about the context of the research strategy, they could possibly provide some of that. 
+
+### RPPR
+This is only relevant if you receive grant funding. Approximately one year after you are funded, you will need to complete an *Research Performance Progress Report* (RPPR). This is completed almost entirely through the Commons webportal, but I have saved my responses as .docx files, which are available here. This was a fairly straightforward process and much of what you need to complete is outlined within this [NIH RPPR guide](https://grants.nih.gov/grants/rppr/rppr_instruction_guide.pdf). A few things of note: 
+
+1) This RPPR does require a statement from your sponsors, which I had originally missed, so be sure to let them know ahead of time and account for that in your timeline; 
+2) Some questions make direct reference to components that you had previously submitted in your DSPAN packet, such as your RCR training and specific aims. In these cases, I found it easiest to actually open the original document, use that structure, and make updates relevant to what I had accomplished.
+3) The RPPR included many more questions, many of which did not apply to my grant. These questions may apply to you. Even though I don't have them in this directory, scan through your specific RPPR to see which questions the NIH says apply to you.
+4) Some questions use dialogue box responses and others expect you to upload a .pdf. I have .pdf versions of the latter included in this directory.
+
+If you have not yet been funded through a DSPAN, it might be advisable to take a quick look through this directory to note the types of things that the NIH wants to monitor. This stage would have been far simpler had I been keeping track in anticipation of having to complete the RPPR since I started, but I learned about the RPPR when I got that first notice. 
 
 ### Summary_Statements
 Contains the actual summary statements that I'd received from reviewers, which I think could maybe be enlightening as to what reviewers are generally going to be looking for, what they don't like to see, and perhaps how you can improve upon or address those concerns with later submissions, should it come to that. 
