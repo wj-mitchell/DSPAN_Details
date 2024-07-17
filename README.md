@@ -1,11 +1,13 @@
 # NIH DSPAN (F99/K00) Application Materials
-**NOTE:** Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible and allowing me to maintain version control pretty easily. 
+**NOTES:** 
 
-Any private or sensitive information contained within these documents (user IDs, addresses, signatures, etc.) has been removed for security concerns. If you see some section in which it looks like I forgot to include one of those things, it's probably because I removed it so use your best judgement. 
+* Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible and allowing me to maintain version control pretty easily. 
 
-If this repository helped or helps you to succesfully receive an NIH F99/K00 grant and you'd be willing to share your materials to help others, please let me know! I'd be happy to incorporate them to provide other examples of routes to a successful application.
+* Any private or sensitive information contained within these documents (user IDs, addresses, signatures, etc.) has been removed for security concerns. If you see some section in which it looks like I forgot to include one of those things, it's probably because I removed it so use your best judgement. 
 
-Lastly, the conventions and templates are changing not infrequently, so please consult with and trust official NIH resources (which this is not) when working on any of these documents moreso than anything I say. The purpose of this repository is to give people a starting point and reduce uncertainty about some of the unofficial or subjective aspects of the process (e.g., "How long do I have to wait to hear back?", "Will I have enough time to turn around a  resubmission if I don't get it the first time?", "How can I frame this tangetially related experience?", etc.)  
+* If this repository helped or helps you to succesfully receive an NIH F99/K00 grant and you'd be willing to share your materials to help others, please let me know! I'd be happy to incorporate them to provide other examples of routes to a successful application.
+
+* Lastly, the conventions and templates are changing not infrequently, so please consult with and trust official NIH resources (which this is not) when working on any of these documents moreso than anything I say. The purpose of this repository is to give people a starting point and reduce uncertainty about some of the unofficial or subjective aspects of the process (e.g., "How long do I have to wait to hear back?", "Will I have enough time to turn around a  resubmission if I don't get it the first time?", "How can I frame this tangetially related experience?", etc.)  
 
 ### Last Updated: 2024 - 07 - 16
 
