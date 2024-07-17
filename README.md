@@ -1,7 +1,7 @@
 # NIH DSPAN (F99/K00) Application Materials
 **NOTES:** 
 
-* Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible and allowing me to maintain version control pretty easily. 
+* Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible while allowing me to update as needed and maintain version control pretty easily. 
 
 * Any private or sensitive information contained within these documents (user IDs, addresses, signatures, etc.) has been removed for security concerns. If you see some section in which it looks like I forgot to include one of those things, it's probably because I removed it so use your best judgement. 
 
