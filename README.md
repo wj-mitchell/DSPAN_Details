@@ -1,5 +1,11 @@
 # NIH DSPAN (F99/K00) Application Materials
-**NOTES:** 
+
+### Last Updated: 2025 - 04 - 09
+
+## A Statement on the Trump Administration's Attack on This Mechanism
+In March 2025, the Trump administration more or less illegitimately terminated the D-SPAN funding mechanism. As such, no future applications will be meaningfully considered, though I believe you can still technically submit as of March 2025 (the rumor is that these applications will collect dust). **This is an unprecedented attack on science and cannot be tolerated**. I am leaving all of my documentation on the subject up and otherwise unaltered. I doubt that it will serve the purpose I intended - to help applicants win this award - but will likely now exist as a memorial and reminder of **what we lose when we allow our fears and lesser impulses to drive our politics**. Diversity grants don’t produce lesser scientists—they make sure that brilliant under-resourced people aren’t quietly forced out of academia like a virus from a body. If we let this happen, we’re not just losing the people who are going to cure cancers, solve dementia, and ease the sufferings that touch everyone.
+
+### Notes
 
 * Is there a specific reason that this needs to be hosted on Github? No. There's no code in here, but Dropbox was giving me trouble and can often times be inaccessible to people without accounts. Github seemed to me to be a means of making this publicly accessible while allowing me to update as needed and maintain version control pretty easily. 
 
@@ -8,8 +14,6 @@
 * If this repository helped or helps you to succesfully receive an NIH F99/K00 grant and you'd be willing to share your materials to help others, please let me know! I'd be happy to incorporate them to provide other examples of routes to a successful application.
 
 * Lastly, the conventions and templates are changing not infrequently, so please consult with and trust official NIH resources (which this is not) when working on any of these documents moreso than anything I say. The purpose of this repository is to give people a starting point and reduce uncertainty about some of the unofficial or subjective aspects of the process (e.g., "How long do I have to wait to hear back?", "Will I have enough time to turn around a  resubmission if I don't get it the first time?", "How can I frame this tangetially related experience?", etc.)  
-
-### Last Updated: 2024 - 07 - 16
 
 ## Overview:
 
